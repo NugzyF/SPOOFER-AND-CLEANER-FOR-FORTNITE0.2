@@ -1,5 +1,6 @@
 # SPOOFER-AND-CLEANER-FOR-FORTNITE0.2
 SPOOFER AND CLEANER FOR FORTNITE    0.2
+Thanks to marathon for the initial ideas
 
 
 # Changelogs
